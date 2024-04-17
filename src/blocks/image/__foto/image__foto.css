@@ -1,0 +1,28 @@
+.image__foto {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 11px;
+
+    width: 143px;
+    height: 143px;
+    box-sizing: border-box;
+
+    padding: 17px;
+
+    font-family: 'Test Sohne', sans-serif;
+    font-size: 15px;
+    line-height: 20px;
+    text-align: center;
+    color: #FCEFF9;
+    text-decoration: none;
+
+    background: transparent linear-gradient(135deg, #FFF7FC66 0%, #FFFFFF66 0%, #FFFFFF00 100%) 0% 0% no-repeat padding-box;
+    box-shadow: inset 3px 3px 6px #EEE5E9;
+    border-radius: 20px;
+    border: none;
+    opacity: 1;
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+}

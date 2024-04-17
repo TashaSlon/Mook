@@ -1,0 +1,25 @@
+.popup__container {
+  position: relative;
+  z-index: 4;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  width: 375px;
+  height: 100vh;
+  box-sizing: border-box;
+
+  padding: 25px 22px;
+
+  background-color: transparent;
+  backdrop-filter: blur(50px);
+  -webkit-backdrop-filter: blur(50px);
+  opacity: 1;
+}
+
+@media screen and (min-width: 515px) {
+  .popup__container {
+    padding: 34px 36px;
+  }
+}

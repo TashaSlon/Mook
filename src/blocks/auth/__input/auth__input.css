@@ -1,0 +1,25 @@
+.auth__input {
+    width: 251px;
+    height: 55px;
+  
+    margin: 0 0 20px;
+    padding: 11px 20px;
+    box-sizing: border-box;
+  
+    color: #080708;
+    font-size: 25px;
+    line-height: 33px;
+    text-align: left;
+  
+    box-shadow: 0px 0px 20px #08070880;
+    border: 2px solid #080708;
+    border-radius: 30px;
+
+    background-color: #FCEFF9;
+  }
+  
+  .auth__input::-webkit-input-placeholder {color:#080708; opacity: 0.5;}
+  .auth__input::-moz-placeholder          {color:#080708; opacity: 0.5;}
+  .auth__input::-ms-input-placeholder     {color:#080708; opacity: 0.5;}
+  .auth__input::placeholder               {color:#080708; opacity: 0.5;}
+  

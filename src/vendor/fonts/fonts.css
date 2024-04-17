@@ -1,0 +1,37 @@
+@font-face {
+  font-family: 'SF Pro';
+  src: url('SFProDisplay-Thin.woff2') format('woff2'),
+      url('SFProDisplay-Thin.woff') format('woff');
+  font-weight: 100;
+}
+
+@font-face {
+  font-family: 'SF Pro';
+  src: url('SFProDisplay-Regular.woff2') format('woff2'),
+      url('SFProDisplay-Regular.woff') format('woff');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  src: url('Montserrat-Black.woff2') format('woff2'),
+      url('Montserrat-Black.woff') format('woff');
+  font-weight: 900;
+}
+@font-face {
+  font-family: 'Test Sohne';
+  src: url('test-soehne-kraftig.woff2') format('woff2');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Test Sohne';
+  src: url('test-soehne-dreiviertelfett.woff2') format('woff2');
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: 'Test Sohne';
+  src: url('test-soehne-buch.woff2') format('woff2');
+  font-weight: 900;
+}

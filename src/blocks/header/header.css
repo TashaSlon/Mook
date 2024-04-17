@@ -1,0 +1,12 @@
+.header {
+  position: fixed;
+  z-index: 2;
+
+  width: 375px;
+  box-sizing: border-box;
+
+  padding: 19px 34px 18px;
+
+  background: #FCEFF9 0% 0% no-repeat padding-box;
+  border-radius: 0px 0px 50px 50px;
+}

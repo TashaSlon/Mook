@@ -1,0 +1,12 @@
+.auth__btn {
+    padding: 5px 20px 6px;
+
+    font-family: 'Test Sohne', sans-serif;
+    letter-spacing: 0px;
+    color: #6600FF;
+
+    box-shadow: 0px 0px 10px #6600FF66;
+    border: 2px solid #6600FF;
+    border-radius: 50px;
+    background-color: transparent;
+}
