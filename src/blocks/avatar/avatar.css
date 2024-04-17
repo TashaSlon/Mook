@@ -1,7 +1,0 @@
-.avatar {
-  position: relative;
-}
-
-.avatar:hover .btn_type_avatar-edit {
-  display: block;
-}

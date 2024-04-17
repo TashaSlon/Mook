@@ -1,11 +1,6 @@
-import { useContext } from "react";
 import { Link } from 'react-router-dom';
 
-export function Card({card, onCardClick}) {
-
-  function handleClick() {
-    onCardClick(card);
-  }
+export function Card({card}) {
 
   return (
     <li className="card__block">
